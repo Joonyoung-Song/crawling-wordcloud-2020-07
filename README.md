@@ -1,4 +1,4 @@
-## Gyeonggi-crawling-wordcloud
+## crawling-wordcloud(2020-07)
 
 #경기도청 2020년 상반기 보도자료 웹크롤링
 
